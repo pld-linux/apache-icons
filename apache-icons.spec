@@ -1,7 +1,7 @@
 Summary:	Public Domain Icons
 Name:		apache-icons
 Version:	1.0
-Release:	1
+Release:	2
 License:	Public Domain
 Group:		Applications/WWW
 # icons from apache 2.2.6 distributions
