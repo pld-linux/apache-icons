@@ -1,13 +1,12 @@
 Summary:	Public Domain Icons
 Name:		apache-icons
 Version:	1.0
-Release:	0.1
+Release:	1
 License:	Public Domain
 Group:		Applications/WWW
 # icons from apache 2.2.6 distributions
 Source0:	%{name}.tar.bz2
 # Source0-md5:	9e6091b200af6d03576534919c79ea96
-BuildRequires:	rpmbuild(macros) >= 1.268
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
