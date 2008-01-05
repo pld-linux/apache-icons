@@ -1,4 +1,5 @@
 Summary:	Public Domain Icons
+Summary(pl.UTF-8):	Ikony będące własnością publiczną
 Name:		apache-icons
 Version:	1.0
 Release:	2
@@ -15,6 +16,12 @@ These icons were originally made for Mosaic for X and have been
 included in the NCSA httpd and Apache server distributions in the
 past. They are in the public domain and may be freely included in any
 application.
+
+%description -l pl.UTF-8
+Te ikony powstały pierwotnie dla przeglądarki Mosaic dla X i były
+dołączane do dystrybucji demonów NCSA httpd i Apache. Są własnością
+publiczną (public domain) i mogą być swobodnie dołączane do dowolnych
+aplikacji.
 
 %prep
 %setup -qc
