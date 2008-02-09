@@ -1,3 +1,7 @@
+# TODO:
+# - include some "Powered by PLD" icon, e.g.
+#   http://pl.docs.pld-linux.org/zrzuty_ekr/logo_04.png
+#   (or more from http://pl.docs.pld-linux.org/loga_na_www.html)
 Summary:	Public Domain Icons
 Summary(pl.UTF-8):	Ikony będące własnością publiczną
 Name:		apache-icons
