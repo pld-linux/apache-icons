@@ -6,7 +6,7 @@ Summary:	Public Domain Icons
 Summary(pl.UTF-8):	Ikony będące własnością publiczną
 Name:		apache-icons
 Version:	1.0
-Release:	2
+Release:	3
 License:	Public Domain
 Group:		Applications/WWW
 # icons from apache 2.2.6 distributions
